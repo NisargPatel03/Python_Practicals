@@ -1,0 +1,3 @@
+Initial content in the file.
+This is the first appended line.
+This is the second appended line.
